@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<l2 originalUUID="uuidChangeme" originalFileName="l2.xml" originalFileSize="864">
+    <id>randomId</id>
+    <classificationMarking>randomCharacter</classificationMarking>
+    <processedAt>randomDate1</processedAt>
+    <transactionId>PO-randomNum1</transactionId>
+    <origin>randomName1</origin>
+    <source>randomName2</source>
+    <dataMode>REAL</dataMode>
+    <epoch>randomDate2</epoch>
+    <northStarId>NS-randomNum2</northStarId>
+    <noradId>randomNum3</noradId>
+    <objectName>randomName3</objectName>
+    <internationalDesignator>1234-randomNum4</internationalDesignator>
+    <xpos>randomNum5.954</xpos>
+    <ypos>randomNum6.013</ypos>
+    <zpos>-randomNum7.369</zpos>
+    <xvel>-randomNum8.4449409586556</xvel>
+    <yvel>randomNum9.373963640514</yvel>
+    <zvel>randomNum10.9566464958202394</zvel>
+    <covariances>
+        <covariance>randomNum11.randomNum12</covariance>
+        <covariance>0.randomNum13</covariance>
+        <covariance>5.randomNum14</covariance>
+        <covariance>8.randomNum15</covariance>
+        <covariance>-0.randomNum16</covariance>
+        <covariance>5.randomNum17</covariance>
+        <covariance>0.randomNum18</covariance>
+        <covariance>68.randomNum19-10</covariance>
+        <covariance>10.randomNum20-08</covariance>
+        <covariance>147.randomNum21-10</covariance>
+        <covariance>10.randomNum22-08</covariance>
+        <covariance>3.randomNum23-10</covariance>
+        <covariance>57.randomNum24-10</covariance>
+        <covariance>12.randomNum25-12</covariance>
+        <covariance>10.randomNum26-12</covariance>
+        <covariance>58.randomNum27-09</covariance>
+        <covariance>-1.randomNum28-12</covariance>
+        <covariance>1.randomNum29-09</covariance>
+        <covariance>6.randomNum30-11</covariance>
+        <covariance>-1.randomNum31-12</covariance>
+        <covariance>5.randomNum32-10</covariance>
+    </covariances>
+</l2>

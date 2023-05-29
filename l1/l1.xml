@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<l1 originalUUID="uuidChangeme" originalFileName="l1.xml" originalFileSize="456">
+    <id>randomId1</id>
+    <classification_marking>randomCharacter</classification_marking>
+    <observation_key>randomId2</observation_key>
+    <observation_time>randomDate</observation_time>
+    <observation_status>randomName1</observation_status>
+    <processing_context_id>randomId3</processing_context_id>
+    <processed_at>randomDate</processed_at>
+    <source>randomName2</source>
+    <origin>randomName3</origin>
+    <data_mode>randomName4</data_mode>
+    <norad_catalog_id>randomNum1</norad_catalog_id>
+    <northstar_catalog_id>NS_randomNum2</northstar_catalog_id>
+    <sen_x>randomNum3</sen_x>
+    <sen_y>randomNum4</sen_y>
+    <sen_z>randomNum5</sen_z>
+    <ra>randomNum6</ra>
+    <ra_unc>randomNum7</ra_unc>
+    <declination>randomNum8</declination>
+    <declination_unc>randomNum9</declination_unc>
+    <magnitude>randomNum10</magnitude>
+    <solar_phase_angle>randomNum11</solar_phase_angle>
+</l1>

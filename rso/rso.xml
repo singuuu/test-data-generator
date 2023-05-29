@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<residentSpaceObject originalUUID="uuidChangeme" originalFileName="rso.xml" originalFileSize="555">
+    <name>randomName1</name>
+    <objectClass>randomName2</objectClass>
+    <dateLaunch>randomDate</dateLaunch>
+    <siteLaunch>randomName3</siteLaunch>
+    <mass>randomNum1</mass>
+    <height>randomNum2</height>
+    <width>randomNum3</width>
+    <depth>randomNum4</depth>
+    <noradId>randomNum5</noradId>
+    <cosparId>1234-randomNum6</cosparId>
+</residentSpaceObject>

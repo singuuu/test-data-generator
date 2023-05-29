@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tle originalUUID="uuidChangeme" originalFileName="tle.xml" originalFileSize="753">
+    <name>randomName</name>
+    <noradId>randomNum</noradId>
+    <date>randomDate</date>
+    <firstLine>1 39509U 14006B   22180.86353809  .00000162  00000-0  00000-0 0  9991</firstLine>
+    <secondLine>2 39509   0.0133  16.9672 0001185  91.0610 158.5584  1.00273249 30555</secondLine>
+</tle>
